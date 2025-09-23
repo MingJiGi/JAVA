@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class Song {
     String title, artist,country;

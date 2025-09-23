@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 import java.util.Scanner;
 

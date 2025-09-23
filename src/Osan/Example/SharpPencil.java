@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class SharpPencil extends Super_Main{
     private int width;

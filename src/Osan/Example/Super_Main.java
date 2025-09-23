@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class Super_Main {
     private int amount;

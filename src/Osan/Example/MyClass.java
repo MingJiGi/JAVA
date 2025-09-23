@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class MyClass {
     private String name = "Java";

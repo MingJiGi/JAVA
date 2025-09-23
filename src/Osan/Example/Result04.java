@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class Result04 {
     double value = 3.4;

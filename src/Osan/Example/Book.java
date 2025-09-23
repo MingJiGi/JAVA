@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class Book {
     String title, author;

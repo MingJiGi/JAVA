@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class BallPen extends Super_Main{
     private String color;

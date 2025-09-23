@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class MyExample {
     public static void add(int a, int b, int sum){

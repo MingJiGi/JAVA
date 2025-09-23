@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 //자식클래스
 public class ColorPoint extends Point{

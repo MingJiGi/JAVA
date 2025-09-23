@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 public class Book1 extends Object{
     String title, author;

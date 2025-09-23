@@ -1,4 +1,4 @@
-package Osan;
+package Osan.Example;
 
 
 // 부모클래스
