@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.Vector;
 
-public class LMS {
+public class LMS{
 
     private String name, stNum, sugang;
     int age;
@@ -16,9 +16,6 @@ public class LMS {
     public static Scanner in = new Scanner(System.in);
     public LMS() {
     }
-
-
-
 
     public LMS(String name, String stNum, int age) {
         this.name = name;

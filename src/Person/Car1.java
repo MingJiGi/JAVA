@@ -36,6 +36,8 @@ public class Car1 {
     }
 
 
+
+
     @Override
     public String toString() {
         String str = "색상 : " + this.getColor() + ", 기어 : " + this.getGearType() + ", 문 갯수" + this.getDoor();
