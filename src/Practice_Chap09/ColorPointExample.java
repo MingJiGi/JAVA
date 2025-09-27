@@ -7,5 +7,8 @@ public class ColorPointExample {
         cp.set(3,4);
         cp.setColor("레드");
         cp.showColorPoint();
+
+
+
     }
 }

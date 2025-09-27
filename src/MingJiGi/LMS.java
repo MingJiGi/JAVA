@@ -50,7 +50,6 @@ public class LMS{
         lms.Account.add(new LMS(name, stNum, age));
     }
 
-
     public static void Show(){
         if (lms.Account.isEmpty()){
             System.out.println("학생목록이 존재하지 않습니다.");
@@ -60,7 +59,6 @@ public class LMS{
             System.out.println(lms.Account.get(i));
         }
     }
-
 
     public static void Remove(){
         System.out.print("삭제할 학생의 학번을 입력해주세요 : ");
