@@ -11,8 +11,7 @@ public class ThrowExample {
             System.out.println("예외 메세지 출력 : "+e.getMessage());
             e.printStackTrace();
         }
-//        System.out.println("정상 종료");
-
+        //        System.out.println("정상 종료");
 
 
     }
