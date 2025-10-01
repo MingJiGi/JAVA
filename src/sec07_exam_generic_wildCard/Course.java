@@ -15,11 +15,9 @@ public class Course <T>{
         // 이 부분을 필히 보고 숙지를 해야된다. 이런 코드들이 종종 등장.
         this.students = (T[])new Object[size];
     }
-
     public String getName() {
         return name;
     }
-
     public T[] getStudents() {
         return students;
     }

@@ -12,7 +12,5 @@ public class ThrowExample {
             e.printStackTrace();
         }
         //        System.out.println("정상 종료");
-
-
     }
 }
