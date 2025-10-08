@@ -13,6 +13,7 @@ public class Key {
 
     @Override
     public boolean equals(Object o) {
+        System.out.println("equals() 호출");
         if (o instanceof Key){
             Key key = (Key) o;
             if (this.number == key.number){
@@ -24,11 +25,7 @@ public class Key {
 
     @Override
     public int hashCode() {
-
-
-
-
-
-        return 1;
+        System.out.println("hashCode() 호출 ");
+        return this.number;
     }
 }
