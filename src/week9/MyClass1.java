@@ -1,0 +1,16 @@
+package week9;
+
+public class MyClass1 {
+    public static void add(int a, int b, int sum){
+        sum = a+b;
+    }
+
+
+    public static void main(String[] args) {
+        int a = 1;
+        int b = 2;
+        int sum = 0;
+        System.out.println("합계 : " + sum);
+
+    }
+}
