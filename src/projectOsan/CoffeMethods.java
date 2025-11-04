@@ -116,7 +116,6 @@ public class CoffeMethods extends coffeAbstract {
             try {
                 userChoice = in.nextInt();
             } catch (java.util.InputMismatchException e){
-                System.out.println("메뉴 선택은 오로지 1~2번만 입력이 가능합니다.");
                 in.next();
                 continue;
             }
@@ -130,7 +129,7 @@ public class CoffeMethods extends coffeAbstract {
                     System.out.println("프로그램을 종료합니다.");
                     return;
                 default:
-                    System.out.println("유효하지 않은 메뉴 번호입니다. 1~2 사이의 숫자를 입력해 주세요.");
+                    System.out.println("유효하지 않은 메뉴 번호입니다. 1~3 사이의 숫자를 입력해 주세요.");
                     break;
             }
         }
